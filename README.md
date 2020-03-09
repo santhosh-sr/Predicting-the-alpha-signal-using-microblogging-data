@@ -28,6 +28,7 @@ Two json files: ‘ sentiment_train.json ’ and ‘ sentiment_test.json ’ are
 you which contain stocktwit data, the ‘ timestamp’ of collecting the tweet and the
 ‘ticker’ (stock identifier). The ‘ sentiment_train.json ’ also contains the tagged
 sentiment_score ranging from 0 - 3 .
+
 The json files have a structure as follows:
 { ‘records’: [
 {
